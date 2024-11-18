@@ -1,0 +1,1 @@
+streamlit run streamlitui.py --server.enableXsrfProtection false
